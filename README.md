@@ -156,7 +156,6 @@ This project is licensed under the MIT License.
 
 Vineesha
 
-GitHub: https://github.com/your-username
 
 ---
 
